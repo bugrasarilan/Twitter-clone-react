@@ -28,7 +28,7 @@ function Home() {
       {tweet.map((t)=>(
       <p className="">{t}</p>
       ))}
-     <p></p>
+     <p> </p>
      </div>
 
 
